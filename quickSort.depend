@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423141989 source:c:\users\javier\documents\practica algoritmos\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
